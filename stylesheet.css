@@ -1,0 +1,24 @@
+body {
+    font-family: arial;
+}
+
+hr {
+    margin-bottom: 3px;
+}
+
+.left-table {
+    background-color: khaki;
+}
+.right-table {
+    margin-left: Opx;
+    background-color: lightblue;
+}
+
+table {
+    float: left;
+}
+
+p {
+    color: purple;
+    text-align: justify;
+}
